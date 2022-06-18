@@ -19,17 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?NatashaDashkovska=daniilshat&theme=solarized_dark)
 
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?NatashaDashkovska=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatashaDashkovska&theme=solarized_dark)
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?NatashaDashkovska=daniilshat&theme=solarized_dark)
 
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?NatashaDashkovska=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NatashaDashkovska&theme=solarized_dark)
 
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?NatashaDashkovska=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatashaDashkovska&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatashaDashkovska&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NatashaDashkovska&theme=solarized_dark)
