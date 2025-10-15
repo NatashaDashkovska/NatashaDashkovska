@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML+CSS
 - 📫 How to reach me: na.dashkovska@gmail.com
 
 <!--
