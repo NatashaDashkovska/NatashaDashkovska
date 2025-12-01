@@ -14,9 +14,7 @@ ____________________________
 
 
 
-<div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatashaDashkovska&theme=solarized_dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-langs?username=NatashaDashkovska&theme=solarized_dark)
 
@@ -24,7 +22,7 @@ ____________________________
 
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repositories?username=NatashaDashkovska&theme=solarized_dark)
 
-</div>
+
 
 
 
