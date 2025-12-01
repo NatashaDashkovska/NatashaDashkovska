@@ -13,16 +13,18 @@ ____________________________
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatashaDashkovska&theme=solarized_dark)
 
 
-<div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NatashaDashkovska&theme=solarized_dark)
 
+<div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatashaDashkovska&theme=solarized_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatashaDashkovska&theme=solarized_dark)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-langs?username=NatashaDashkovska&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatashaDashkovska&theme=solarized_dark)
+![Lines of Code](https://github-profile-summary-cards.vercel.app/api/cards/lines-of-code?username=NatashaDashkovska&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NatashaDashkovska&theme=solarized_dark)</div>
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repositories?username=NatashaDashkovska&theme=solarized_dark)
+
+</div>
 
 
 
