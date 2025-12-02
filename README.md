@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
-- 🔭 Вчу HTML + CSS
-- 📫 na.dashkovska@gmail.com
+- 🔭 I’m currently learning HTML+CSS
+- 📫 How to reach me: na.dashkovska@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/3b70d15f-9221-4e97-9f90-8870defab93a.svg)](https://wakatime.com/@3b70d15f-9221-4e97-9f90-8870defab93a)
 
